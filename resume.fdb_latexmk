@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1645696523 "/home/kushrike/Downloads/Awesome CV (2)/resume.tex" "resume.pdf" "resume" 1645696523
-  "/home/kushrike/Downloads/Awesome CV (2)/resume.tex" 1645696426 3558 3594d57310efd55f57b8da6c56a93a42 ""
+["pdflatex"] 1646391968 "/home/kushrike/Downloads/Awesome CV (2)/resume.tex" "resume.pdf" "resume" 1646391968
+  "/home/kushrike/Downloads/Awesome CV (2)/resume.tex" 1646391967 3560 f3c979db5397673a5a9ddcb41a7e1363 ""
   "/usr/share/texmf-dist/tex/generic/iftex/iftex.sty" 1640600964 6501 4011d89d9621e0b0901138815ba5ff29 ""
   "/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty" 1640600964 1057 525c2192b5febbd8c1f662c9468335bb ""
   "/usr/share/texmf-dist/tex/generic/iftex/ifxetex.sty" 1640600964 488 4565444a3e75e59cb2702dc42e18f482 ""
@@ -28,8 +28,8 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1640600964 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1645294198 2920111 985fc482fea8d13dbf7e2aa83d43bffa ""
   "awesome-cv.cls" 1623351904 26723 8ce43142bf7a9b887cc6ca684971bd67 ""
-  "resume.aux" 1645696523 32 3985256e7290058c681f74d7a3565a19 ""
-  "resume.tex" 1645696426 3558 3594d57310efd55f57b8da6c56a93a42 ""
+  "resume.aux" 1646391968 32 3985256e7290058c681f74d7a3565a19 ""
+  "resume.tex" 1646391967 3560 f3c979db5397673a5a9ddcb41a7e1363 ""
   (generated)
   "resume.log"
   "resume.pdf"
