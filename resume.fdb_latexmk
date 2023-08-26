@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1690719726 "/Users/kushalsrivastava/PERSONAL/resume/resume.tex" "resume.pdf" "resume" 1690719726 2
+["pdflatex"] 1692977450 "/Users/kushalsrivastava/PERSONAL/resume/resume.tex" "resume.pdf" "resume" 1692977450 2
   "/Users/kushalsrivastava/PERSONAL/resume/resume.tex" 1690383082 3561 2778cfc866013ab62d484d24ddc9ec35 ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty" 1572645307 1057 525c2192b5febbd8c1f662c9468335bb ""
@@ -30,7 +30,7 @@
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1689766029 7883453 d4259afd70c479d5c2c86639c6a8fe16 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "awesome-cv.cls" 1689655999 26721 2099a9b5a6154e0dec580074b1cb4f18 ""
-  "resume.aux" 1690719726 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "resume.aux" 1692977450 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "resume.tex" 1690383082 3561 2778cfc866013ab62d484d24ddc9ec35 ""
   (generated)
   "resume.aux"
