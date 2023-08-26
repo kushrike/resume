@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1693066591 "/Users/kushalsrivastava/PERSONAL/resume/resume.tex" "resume.pdf" "resume" 1693066591 2
-  "/Users/kushalsrivastava/PERSONAL/resume/resume.tex" 1690383082 3561 2778cfc866013ab62d484d24ddc9ec35 ""
+["pdflatex"] 1693077696 "/Users/kushalsrivastava/PERSONAL/resume/resume.tex" "resume.pdf" "resume" 1693077696 2
+  "/Users/kushalsrivastava/PERSONAL/resume/resume.tex" 1693071175 3561 dba1e1e5c3afcc1679ac4df859923415 ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty" 1644112042 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty" 1572645307 1057 525c2192b5febbd8c1f662c9468335bb ""
   "/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifxetex.sty" 1572645307 488 4565444a3e75e59cb2702dc42e18f482 ""
@@ -29,9 +29,9 @@
   "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1689766029 7883453 d4259afd70c479d5c2c86639c6a8fe16 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "awesome-cv.cls" 1689655999 26721 2099a9b5a6154e0dec580074b1cb4f18 ""
-  "resume.aux" 1693066591 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "resume.tex" 1690383082 3561 2778cfc866013ab62d484d24ddc9ec35 ""
+  "awesome-cv.cls" 1693076352 26721 2099a9b5a6154e0dec580074b1cb4f18 ""
+  "resume.aux" 1693077696 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "resume.tex" 1693071175 3561 dba1e1e5c3afcc1679ac4df859923415 ""
   (generated)
   "resume.aux"
   "resume.log"

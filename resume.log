@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.19)  26 AUG 2023 21:46
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.7.19)  27 AUG 2023 00:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -968,17 +968,19 @@ able
 t line 27.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 27.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
+(Font)              scaled to size 9.0pt on input line 27.
 ) (./resume/projects.tex)
-(./resume/honors.tex
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 17.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
-(Font)              scaled to size 9.0pt on input line 17.
-) (./resume/skills.tex
+(./resume/skills.tex
 Overfull \hbox (78.1628pt too wide) in alignment at lines 10--28
 [] [] 
  []
 
+) (./resume/honors.tex
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 17.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
+(Font)              scaled to size 9.0pt on input line 17.
 ) (./resume/education.tex) (./resume/por.tex)
 
 Package fancyhdr Warning: \footskip is too small (4.26773pt): 
@@ -998,11 +1000,11 @@ Package rerunfilecheck Info: Checksums for `resume.out':
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31889 strings out of 476683
- 656092 string characters out of 5804047
+ 31891 strings out of 476683
+ 656192 string characters out of 5804047
  1892018 words of memory out of 5000000
- 51595 multiletter control sequences out of 15000+600000
- 513867 words of font info for 100 fonts, out of 8000000 for 9000
+ 51596 multiletter control sequences out of 15000+600000
+ 513875 words of font info for 101 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  114i,11n,118p,544b,584s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
